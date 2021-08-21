@@ -38,3 +38,5 @@ params:
       scale: 0.05
     proposal: 0.05
     latex: \beta_\mathrm{JLA}
+  sample:
+    mcmc: None
